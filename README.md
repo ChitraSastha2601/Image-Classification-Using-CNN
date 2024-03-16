@@ -1,1 +1,2 @@
 # Image-Classification-Using-CNN
+In image classification using Convolutional Neural Networks (CNNs), I leverage deep learning techniques to automatically categorize images into predefined classes or categories. By extracting features hierarchically through convolutional layers, CNNs can learn to recognize patterns and objects within images. Through training on labeled datasets and optimizing model parameters, CNNs can achieve high accuracy in classifying images, making them valuable tools for tasks such as object recognition, medical imaging, and autonomous driving.
